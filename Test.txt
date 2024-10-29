@@ -1,2 +1,5 @@
-# text hello world
-# World: Hello i'm burning
+# git befehle
+# git status
+# git add.
+# git commit -m "massage"
+# git push
